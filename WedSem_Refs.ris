@@ -1,0 +1,868 @@
+TY  - JOUR
+ID  - 22754
+T1  - Cell type and cortex-specific RNA editing in single human neurons informs neuropsychiatric disorders
+A1  - Ansell, Brendan Robert E
+A1  - Thomas, Simon N
+A1  - Munro, Jacob E
+A1  - Freytag, Saskia
+A1  - Bahlo, Melanie
+Y1  - 2019/00/01
+N2  - Conversion of adenosine to inosine in RNA by ADAR enzymes occurs at thousands of sites in the human transcriptome, and is essential for healthy brain development. This process, known as ‘RNA editing’, is dysregulated in many neuropsychiatric diseases, but is little understood at the level of individual neurons. We examined full-length nuclear transcriptomes of 3,055 neurons from six cortical regions of a neurotypical post-mortem female donor and identified 40,861 high-confidence edited sites. The majority of sites were located within Alu repeats in introns or 3’ UTRs, and were present in previously published RNA editing databases. We identified 15,784 putative novel RNA editing sites, 30% of which were also detectable in independently generated neuronal transcriptomes from unrelated donors. The strongest correlates of global editing rates were expression levels of small nucleolar RNAs from the SNORD115 and SNORD116 cluster (15q11), known to modulate serotonin receptor processing and to colocalize with ADAR2, one of three known RNA editing enzymes in humans. As expected, expression of DNA and RNA binding proteins were negatively associated with editing. We present evidence for dysregulated RNA editing in six rare genetic conditions; and report 117 differentially edited sites between cortical regions and neuronal subtypes. These results provide spatial and neurophenotypic context for 1,871 and 998 sites that are differentially edited in the brains of schizophrenic and autistic patients respectively, and a reference for future studies of RNA editing in single brain cells from these cohorts.
+T2  - bioRxiv
+SP  - 840892
+UR  - http://biorxiv.org/content/early/2019/11/14/840892.abstract
+L3  - papers2://publication/uuid/065D4BD0-FC64-4136-8B0B-A12D4A7A8E9E
+ER  - 
+
+TY  - JOUR
+ID  - 22551
+T1  - ADAR2 mislocalization and widespread RNA editing aberrations in C9orf72-mediated ALS/FTD
+A1  - Moore, Stephen
+A1  - Alsop, Eric
+A1  - Lorenzini, Ileana
+A1  - Starr, Alexander
+A1  - Rabichow, Benjamin E
+A1  - Mendez, Emily
+A1  - Levy, Jennifer L
+A1  - Burciu, Camelia
+A1  - Reiman, Rebecca
+A1  - Chew, Jeannie
+A1  - Belzil, Veronique V
+A1  - Dickson, Dennis W
+A1  - Robertson, Janice
+A1  - Staats, Kim A
+A1  - Ichida, Justin K
+A1  - Petrucelli, Leonard
+A1  - Van Keuren-Jensen, Kendall
+A1  - Sattler, Rita
+Y1  - 2019/00/03
+N2  - Acta Neuropathologica, https://doi.org/10.1007/s00401-019-01999-w
+T2  - Acta Neuropathologica
+J2  - Acta Neuropathologica
+PB  - Springer Berlin Heidelberg
+VL  - 138
+IS  - 1
+SP  - 49
+EP  - 65
+PB  - Springer Berlin Heidelberg
+UR  - https://doi.org/10.1007/s00401-019-01999-w
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2019/Moore/Acta%20Neuropathologica%202019%20Moore.pdf
+L3  - papers2://publication/doi/10.1007/s00401-019-01999-w
+M3  - 10.1007/s00401-019-01999-w
+ER  - 
+
+TY  - JOUR
+ID  - 22675
+T1  - REDIportal: a comprehensive database of A-to-I RNA editing events in humans
+A1  - Picardi, Ernesto
+A1  - D'Erchia, Anna Maria
+A1  - Lo Giudice, Claudio
+A1  - Pesole, Graziano
+Y1  - 2017/00/03
+T2  - Nucleic Acids Research
+J2  - Nucleic Acids Research
+VL  - 45
+IS  - D1
+SP  - D750
+EP  - D757
+UR  - https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw767
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2017/Picardi/Nucleic%20Acids%20Research%202017%20Picardi.pdf
+L3  - papers2://publication/doi/10.1186/s13059-016-0924-1
+M3  - 10.1186/s13059-016-0924-1
+ER  - 
+
+TY  - JOUR
+ID  - 22756
+T1  - Keeping a lid on it
+A1  - Turrigiano, Gina
+Y1  - 2014/00/01
+N2  - The protein Npas4 dampens activated excitatory brain circuits by recruiting inhibitory signals to excitatory neurons. It emerges that this protein has the opposite role in some inhibitory neurons, promoting their activity.
+T2  - Nature
+J2  - Nature
+PB  - Nature Publishing Group
+VL  - 511
+IS  - 7509
+SP  - 297
+EP  - 298
+UR  - https://doi.org/10.1038/nature13641
+L3  - papers2://publication/uuid/C0FEBE13-1CE0-4FAF-89EE-D0385DCA129F
+ER  - 
+
+TY  - JOUR
+ID  - 22431
+T1  - RADAR: a rigorously annotated database of A-to-I RNA editing
+A1  - Ramaswami, Gokul
+A1  - Li, Jin Billy
+Y1  - 2013/00/28
+T2  - Nucleic Acids Research
+J2  - Nucleic Acids Research
+VL  - 42
+IS  - D1
+SP  - D109
+EP  - D113
+UR  - https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkt996
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2013/Ramaswami/Nucleic%20Acids%20Research%202013%20Ramaswami.pdf
+L3  - papers2://publication/doi/10.1038/ng.2414
+M3  - 10.1038/ng.2414
+ER  - 
+
+TY  - JOUR
+ID  - 22472
+T1  - Single-cell transcriptomics reveals specific RNA editing signatures in the human brain
+A1  - Picardi, Ernesto
+A1  - Horner, David S
+A1  - Pesole, Graziano
+Y1  - 2017/00/16
+T2  - RNA
+J2  - RNA
+VL  - 23
+IS  - 6
+SP  - 860
+EP  - 865
+UR  - https://rnajournal-cshlp-org.ezp.lib.unimelb.edu.au/content/23/6/860.full.pdf
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2017/Picardi/RNA%202017%20Picardi.pdf
+L3  - papers2://publication/doi/10.1261/rna.058271.116
+M3  - 10.1261/rna.058271.116
+ER  - 
+
+TY  - JOUR
+ID  - 22433
+T1  - Editor meets silencer: crosstalk between RNA editing and RNA interference
+A1  - Nishikura, Kazuko
+Y1  - 2006/00/01
+T2  - Nature reviews. Molecular cell biology
+J2  - Nat. Rev. Mol. Cell Biol.
+PB  - Nature Publishing Group
+VL  - 7
+IS  - 12
+SP  - 919
+EP  - 931
+UR  - http://www.nature.com/articles/nrm2061
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2006/Nishikura/Nat.%20Rev.%20Mol.%20Cell%20Biol.%202006%20Nishikura-1.pdf
+L3  - papers2://publication/doi/10.1038/nbt0804-962
+M3  - 10.1038/nbt0804-962
+ER  - 
+
+TY  - JOUR
+ID  - 22474
+T1  - A survey of human brain transcriptome diversity at the single cell level
+A1  - Darmanis, Spyros
+A1  - Sloan, Steven A
+A1  - Zhang, Ye
+A1  - Enge, Martin
+A1  - Caneda, Christine
+A1  - Shuer, Lawrence M
+A1  - Hayden Gephart, Melanie G
+A1  - Barres, Ben A
+A1  - Quake, Stephen R
+Y1  - 2015/00/09
+T2  - Proceedings of the National Academy of Sciences
+J2  - Proceedings of the National Academy of Sciences
+VL  - 112
+IS  - 23
+SP  - 7285
+EP  - 7290
+UR  - http://www.pnas.org/lookup/doi/10.1073/pnas.1507125112
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2015/Darmanis/Proceedings%20of%20the%20National%20Academy%20of%20Sciences%202015%20Darmanis.pdf
+L3  - papers2://publication/doi/10.1002/dneu.20853
+M3  - 10.1002/dneu.20853
+ER  - 
+
+TY  - JOUR
+ID  - 22597
+T1  - The snoRNA HBII-52 regulates alternative splicing of the serotonin receptor 2C.
+A1  - Kishore, Shivendra
+A1  - Stamm, Stefan
+Y1  - 2006/00/13
+N2  - The Prader-Willi syndrome is a congenital disease that is caused by the loss of paternal gene expression from a maternally imprinted region on chromosome 15. This region contains a small nucleolar RNA (snoRNA), HBII-52, that exhibits sequence complementarity to the alternatively spliced exon Vb of the serotonin receptor 5-HT(2C)R. We found that HBII-52 regulates alternative splicing of 5-HT(2C)R by binding to a silencing element in exon Vb. Prader-Willi syndrome patients do not express HBII-52. They have different 5-HT(2C)R messenger RNA (mRNA) isoforms than healthy individuals. Our results show that a snoRNA regulates the processing of an mRNA expressed from a gene located on a different chromosome, and the results indicate that a defect in pre-mRNA processing contributes to the Prader-Willi syndrome.
+T2  - Science
+J2  - Science
+VL  - 311
+IS  - 5758
+SP  - 230
+EP  - 232
+AD  - Institut für Biochemie, Emil-Fischer-Zentrum, Friedrich-Alexander Universität Erlangen-Nürnberg, Fahrstrasse 17, 91054 Erlangen, Germany.
+UR  - http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=16357227&retmode=ref&cmd=prlinks
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2006/Kishore/Science%202006%20Kishore.pdf
+L3  - papers2://publication/doi/10.1126/science.1118265
+M3  - 10.1126/science.1118265
+ER  - 
+
+TY  - JOUR
+ID  - 22274
+T1  - Genome-wide analysis of differential RNA editing in epilepsy
+A1  - Srivastava, Prashant Kumar
+A1  - Bagnati, Marta
+A1  - Delahaye-Duriez, Andree
+A1  - Ko, Jeong-Hun
+A1  - Rotival, Maxime
+A1  - Langley, Sarah R
+A1  - Shkura, Kirill
+A1  - Mazzuferi, Manuela
+A1  - Danis, Bénédicte
+A1  - van Eyll, Jonathan
+A1  - Foerch, Patrik
+A1  - Behmoaras, Jacques
+A1  - Kaminski, Rafal M
+A1  - Petretto, Enrico
+A1  - Johnson, Michael R
+Y1  - 2017/00/01
+T2  - Genome research
+J2  - Genome Research
+VL  - 27
+IS  - 3
+SP  - 440
+EP  - 450
+UR  - http://genome.cshlp.org/lookup/doi/10.1101/gr.210740.116
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2017/Srivastava/Genome%20Research%202017%20Srivastava.pdf
+L3  - papers2://publication/doi/10.1038/nn.3641
+M3  - 10.1038/nn.3641
+ER  - 
+
+TY  - JOUR
+ID  - 22479
+T1  - Neuronal subtypes and diversity revealed by single-nucleus RNA sequencing of the human brain.
+A1  - Lake, Blue B
+A1  - Ai, Rizi
+A1  - Kaeser, Gwendolyn E
+A1  - Salathia, Neeraj S
+A1  - Yung, Yun C
+A1  - Liu, Rui
+A1  - Wildberg, Andre
+A1  - Gao, Derek
+A1  - Fung, Ho-Lim
+A1  - Chen, Song
+A1  - Vijayaraghavan, Raakhee
+A1  - Wong, Julian
+A1  - Chen, Allison
+A1  - Sheng, Xiaoyan
+A1  - Kaper, Fiona
+A1  - Shen, Richard
+A1  - Ronaghi, Mostafa
+A1  - Fan, Jian-Bing
+A1  - Wang, Wei
+A1  - Chun, Jerold
+A1  - Zhang, Kun
+Y1  - 2016/00/24
+N2  - The human brain has enormously complex cellular diversity and connectivities fundamental to our neural functions, yet difficulties in interrogating individual neurons has impeded understanding of the underlying transcriptional landscape. We developed a scalable approach to sequence and quantify RNA molecules in isolated neuronal nuclei from a postmortem brain, generating 3227 sets of single-neuron data from six distinct regions of the cerebral cortex. Using an iterative clustering and classification approach, we identified 16 neuronal subtypes that were further annotated on the basis of known markers and cortical cytoarchitecture. These data demonstrate a robust and scalable method for identifying and categorizing single nuclear transcriptomes, revealing shared genes sufficient to distinguish previously unknown and orthologous neuronal subtypes as well as regional identity and transcriptomic heterogeneity within the human brain. 
+T2  - Science
+J2  - Science
+VL  - 352
+IS  - 6293
+SP  - 1586
+EP  - 1590
+AD  - Department of Bioengineering, University of California, San Diego, La Jolla, CA, USA.
+UR  - http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=27339989&retmode=ref&cmd=prlinks
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2016/Lake/Science%202016%20Lake.pdf
+L3  - papers2://publication/doi/10.1126/science.aaf1204
+M3  - 10.1126/science.aaf1204
+ER  - 
+
+TY  - JOUR
+ID  - 22685
+T1  - Differential methylation analysis of reduced representation bisulfite sequencing experiments using edgeR
+A1  - Chen, Yunshun
+A1  - Pal, Bhupinder
+A1  - Visvader, Jane E
+A1  - Smyth, Gordon K
+Y1  - 2017/00/28
+T2  - F1000Research
+J2  - F1000Res
+VL  - 6
+SP  - 2055
+UR  - https://f1000research.com/articles/6-2055/v1
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2017/Chen/F1000Res%202017%20Chen.pdf
+L3  - papers2://publication/doi/10.5281/zenodo.1052871
+M3  - 10.5281/zenodo.1052871
+ER  - 
+
+TY  - JOUR
+ID  - 22650
+T1  - Neuronal differentiation induces SNORD115 expression and is accompanied by post-transcriptional changes of serotonin receptor 2c mRNA.
+A1  - Bratkovič, Tomaž
+A1  - Modic, Miha
+A1  - Camargo Ortega, Germán
+A1  - Drukker, Micha
+A1  - Rogelj, Boris
+Y1  - 2018/00/23
+N2  - The serotonin neurotransmitter system is widespread in the brain and implicated in modulation of neuronal responses to other neurotransmitters. Among 14 serotonin receptor subtypes, 5-HT2cR plays a pivotal role in controlling neuronal network excitability. Serotonergic activity conveyed through receptor 5-HT2cR is regulated post-transcriptionally via two mechanisms, alternative splicing and A-to-I RNA editing. Brain-specific small nucleolar RNA SNORD115 harbours a phylogenetically conserved 18-nucleotide antisense element with perfect complementarity to the region of 5ht2c primary transcript that undergoes post-transcriptional changes. Previous 5ht2c minigene studies have implicated SNORD115 in fine-tuning of both post-transcriptional events. We monitored post-transcriptional changes of endogenous 5ht2c transcripts during neuronal differentiation. Both SNORD115 and 5ht2c were upregulated upon neuronal commitment. We detected increased 5ht2c alternative exon Vb inclusion already at the stage of neuronal progenitors, and more extensive A-to-I editing of non-targeted sites A and B compared to adjacent adenosines at sites E, C and D throughout differentiation. As the extent of editing is known to positively correlate with exon Vb usage while it reduces receptor functionality, our data support the model where SNORD115 directly promotes alternative exon inclusion without the requirement for conversion of key adenosines to inosines, thereby favouring production of full-length receptor isoforms with higher potency.
+T2  - Scientific Reports
+J2  - Sci. Rep.
+PB  - Macmillan Publishers Limited. All rights reserved SN -
+VL  - 8
+IS  - 1
+SP  - 5101
+AD  - University of Ljubljana, Faculty of Pharmacy, Department of Pharmaceutical Biology, Aškerčeva 7, 1000, Ljubljana, Slovenia.
+UR  - http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=29572515&retmode=ref&cmd=prlinks
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2018/Bratkovi%C4%8D/Sci.%20Rep.%202018%20Bratkovi%C4%8D.pdf
+L3  - papers2://publication/doi/10.1038/s41598-018-23293-7
+M3  - 10.1038/s41598-018-23293-7
+ER  - 
+
+TY  - JOUR
+ID  - 22617
+T1  - Highly restricted deletion of the SNORD116 region is implicated in Prader&ndash;Willi Syndrome
+A1  - Bieth, Eric
+A1  - Eddiry, Sanaa
+A1  - Gaston, V eacute ronique
+A1  - Lorenzini, Fran ccedil oise
+A1  - Buffet, Alexandre
+A1  - Auriol, Fran ccedil oise Conte
+A1  - Molinas, Catherine
+A1  - Cailley, Doroth eacute e
+A1  - Rooryck, Caroline
+A1  - Arveiler, Benoit
+A1  - eacute, J eacute rome Cavaill
+A1  - Salles, Jean Pierre
+A1  - Tauber, Ma iuml th eacute
+Y1  - 2019/00/13
+N2  - European Journal of Human Genetics 23, 252 (2015). doi:10.1038/ejhg.2014.103
+SP  - 1
+EP  - 4
+PB  - Nature Publishing Group
+SN  - 1018-4813
+UR  - https://www.nature.com/articles/ejhg2014103.pdf
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2019/Bieth/2019%20Bieth.pdf
+L3  - papers2://publication/doi/10.1038/ejhg.2014.103
+M3  - 10.1038/ejhg.2014.103
+ER  - 
+
+TY  - JOUR
+ID  - 22577
+T1  - ADAR2-mediated editing of RNA substrates in the nucleolus is inhibited by C/D small nucleolar RNAs
+A1  - Vitali, Patrice
+A1  - Basyuk, Eugenia
+A1  - Le Meur, Elodie
+A1  - Bertrand, Edouard
+A1  - Muscatelli, Françoise
+A1  - Cavaillé, Jérôme
+A1  - Huttenhofer, Alexander
+Y1  - 2005/00/06
+T2  - The Journal of Cell Biology
+J2  - J Cell Biol
+VL  - 169
+IS  - 5
+SP  - 745
+EP  - 753
+UR  - http://www.jcb.org/lookup/doi/10.1083/jcb.200411129
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2005/Vitali/J%20Cell%20Biol%202005%20Vitali.pdf
+L3  - papers2://publication/doi/10.1093/nar/27.14.2912
+M3  - 10.1093/nar/27.14.2912
+ER  - 
+
+TY  - JOUR
+ID  - 22619
+T1  - Angelman syndrome — insights into a rare neurogenetic disorder
+A1  - Buiting, Karin
+A1  - Williams, Charles
+A1  - Horsthemke, Bernhard
+Y1  - 2016/00/12
+N2  - Nature Reviews Neurology 12, 584 (2016). doi:10.1038/nrneurol.2016.133
+T2  - Nature Publishing Group
+J2  - Nature Publishing Group
+PB  - Nature Publishing Group
+VL  - 12
+IS  - 10
+SP  - 584
+EP  - 593
+PB  - Nature Publishing Group
+UR  - http://dx.doi.org/10.1038/nrneurol.2016.133
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2016/Buiting/Nature%20Publishing%20Group%202016%20Buiting.pdf
+L3  - papers2://publication/doi/10.1038/nrneurol.2016.133
+M3  - 10.1038/nrneurol.2016.133
+ER  - 
+
+TY  - JOUR
+ID  - 22087
+T1  - Genetic effects on gene expression across human tissues
+A1  - Battle, Alexis
+A1  - Brown, Christopher D
+A1  - Engelhardt, Barbara E
+A1  - Montgomery, Stephen B
+Y1  - 2017/00/12
+N2  - Nature 550, 204 (2017). doi:10.1038/nature24277
+T2  - Nature
+J2  - Nature
+PB  - Nature Publishing Group
+VL  - 550
+IS  - 7675
+SP  - 204
+EP  - 213
+PB  - Nature Publishing Group
+UR  - http://dx.doi.org/10.1038/nature24277
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2017/Battle/Nature%202017%20Battle.pdf
+L3  - papers2://publication/doi/10.1038/nature24277
+M3  - 10.1038/nature24277
+ER  - 
+
+TY  - JOUR
+ID  - 22579
+T1  - Global landscape and genetic regulation of RNA editing in cortical samples from individuals with schizophrenia
+A1  - Breen, Michael S
+A1  - Dobbyn, Amanda
+A1  - Li, Qin
+A1  - Roussos, Panos
+A1  - Hoffman, Gabriel E
+A1  - Stahl, Eli
+A1  - Chess, Andrew
+A1  - Sklar, Pamela
+A1  - Li, Jin Billy
+A1  - Devlin, Bernie
+A1  - Buxbaum, Joseph D
+A1  - Akbarian, Schahram
+A1  - Bendl, Jaroslav
+A1  - Brennand, Kristen
+A1  - Brown, Leanne
+A1  - Browne, Andrew
+A1  - Charney, Alexander
+A1  - Couto, Lizette
+A1  - Crawford, Greg
+A1  - Devillers, Olivia
+A1  - Domenici, Enrico
+A1  - Filosi, Michele
+A1  - Flatow, Elie
+A1  - Francoeur, Nancy
+A1  - Fullard, John F
+A1  - Gil, Sergio Espeso
+A1  - Girdhar, Kiran
+A1  - Gulyás-Kovács, Attila
+A1  - Gur, Raquel
+A1  - Hahn, Chang-Gyu
+A1  - Haroutunian, Vahram
+A1  - Hauberg, Mads Engel
+A1  - Huckins, Laura
+A1  - Jacobov, Rivky
+A1  - Jiang, Yan
+A1  - Johnson, Jessica S
+A1  - Kassim, Bibi
+A1  - Kim, Yungil
+A1  - Klei, Lambertus
+A1  - Kramer, Robin
+A1  - Lauria, Mario
+A1  - Lehner, Thomas
+A1  - Lewis, David A
+A1  - Lipska, Barbara K
+A1  - Marenco, Stefano
+A1  - Mangravite, Lara M
+A1  - Montgomery, Kelsey
+A1  - Park, Royce
+A1  - Perumal, Thanneer Malai
+A1  - Peters, Mette A
+A1  - Rosenbluh, Chaggai
+A1  - Ruderfer, Douglas M
+A1  - Senthil, Geetha
+A1  - Shah, Hardik R
+A1  - Sieberts, Solveig K
+A1  - Sloofman, Laura
+A1  - Song, Lingyun
+A1  - Sullivan, Patrick
+A1  - Visintainer, Roberto
+A1  - Wang, Jiebiao
+A1  - Wang, Ying-Chih
+A1  - Wiseman, Jennifer
+A1  - Xia, Eva
+A1  - Zhang, Wen
+A1  - Zharovsky, Elizabeth
+Y1  - 2019/00/22
+N2  - Nature Neuroscience, doi:10.1038/s41593-019-0463-7
+T2  - Nature neuroscience
+J2  - Nat. Neurosci.
+PB  - Nature Publishing Group
+SP  - 1
+EP  - 17
+PB  - Springer US
+UR  - http://dx.doi.org/10.1038/s41593-019-0463-7
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2019/Breen/Nat.%20Neurosci.%202019%20Breen.pdf
+L3  - papers2://publication/doi/10.1038/s41593-019-0463-7
+M3  - 10.1038/s41593-019-0463-7
+ER  - 
+
+TY  - JOUR
+ID  - 22580
+T1  - Widespread RNA editing dysregulation in brains from autistic individuals
+A1  - Tran, Stephen S
+A1  - Jun, Hyun-Ik
+A1  - Bahn, Jae Hoon
+A1  - Azghadi, Adel
+A1  - Ramaswami, Gokul
+A1  - Nostrand, Eric L
+A1  - Nguyen, Thai B
+A1  - Hsiao, Yun-Hua E
+A1  - Lee, Changhoon
+A1  - Pratt, Gabriel A
+A1  - Martínez-Cerdeño, Verónica
+A1  - Hagerman, Randi J
+A1  - Yeo, Gene W
+A1  - Geschwind, Daniel H
+A1  - Xiao, Xinshu
+Y1  - 2018/00/14
+N2  - Nature Neuroscience, doi:10.1038/s41593-018-0287-x
+T2  - Nature neuroscience
+J2  - Nat. Neurosci.
+PB  - Nature Publishing Group
+SP  - 1
+EP  - 19
+PB  - Springer US
+UR  - http://dx.doi.org/10.1038/s41593-018-0287-x
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2018/Tran/Nat.%20Neurosci.%202018%20Tran-1.pdf
+L3  - papers2://publication/doi/10.1038/s41593-018-0287-x
+M3  - 10.1038/s41593-018-0287-x
+ER  - 
+
+TY  - JOUR
+ID  - 22541
+T1  - A-to-I editing of coding and non-coding RNAs by ADARs
+A1  - Nishikura, Kazuko
+Y1  - 2015/00/09
+N2  - Nature Reviews Molecular Cell Biology 17, 83 (2016). doi:10.1038/nrm.2015.4
+T2  - Nature reviews. Molecular cell biology
+J2  - Nat. Rev. Mol. Cell Biol.
+PB  - Nature Publishing Group
+VL  - 17
+IS  - 2
+SP  - 83
+EP  - 96
+PB  - Nature Publishing Group
+UR  - http://dx.doi.org/10.1038/nrm.2015.4
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2015/Nishikura/Nat.%20Rev.%20Mol.%20Cell%20Biol.%202015%20Nishikura.pdf
+L3  - papers2://publication/doi/10.1038/nrm.2015.4
+M3  - 10.1038/nrm.2015.4
+ER  - 
+
+TY  - JOUR
+ID  - 22747
+T1  - Functions and Regulation of RNA Editing by ADAR Deaminases
+A1  - Nishikura, Kazuko
+Y1  - 2010/00/07
+T2  - Annual review of biochemistry
+J2  - Annu. Rev. Biochem.
+VL  - 79
+IS  - 1
+SP  - 321
+EP  - 349
+UR  - http://www.annualreviews.org/doi/10.1146/annurev-biochem-060208-105251
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2010/Nishikura/Annu.%20Rev.%20Biochem.%202010%20Nishikura.pdf
+L3  - papers2://publication/doi/10.1146/annurev-biochem-060208-105251
+M3  - 10.1146/annurev-biochem-060208-105251
+ER  - 
+
+TY  - JOUR
+ID  - 22748
+T1  - Bi-allelic ADARB1 Variants Associated with Microcephaly, Intellectual Disability, and Seizures
+A1  - Tan, Tiong Yang
+A1  - Sedmík, Jiří
+A1  - Fitzgerald, Mark P
+A1  - Halevy, Rivka Sukenik
+A1  - Keegan, Liam P
+A1  - Helbig, Ingo
+A1  - Basel-Salmon, Lina
+A1  - Cohen, Lior
+A1  - Straussberg, Rachel
+A1  - Chung, Wendy K
+A1  - Helal, Mayada
+A1  - Maroofian, Reza
+A1  - Houlden, Henry
+A1  - Juusola, Jane
+A1  - Sadedin, Simon
+A1  - Pais, Lynn
+A1  - Howell, Katherine B
+A1  - White, Susan M
+A1  - Christodoulou, John
+A1  - O’Connell, Mary A
+Y1  - 2020/00/19
+N2  - The American Journal of Human Genetics, Corrected proof. doi:10.1016/j.ajhg.2020.02.015
+T2  - American journal of human genetics
+J2  - Am. J. Hum. Genet.
+PB  - ElsevierCompany.
+SP  - 1
+EP  - 17
+PB  - ElsevierCompany.
+UR  - https://doi.org/10.1016/j.ajhg.2020.02.015
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2020/Tan/Am.%20J.%20Hum.%20Genet.%202020%20Tan.pdf
+L3  - papers2://publication/doi/10.1016/j.ajhg.2020.02.015
+M3  - 10.1016/j.ajhg.2020.02.015
+ER  - 
+
+TY  - JOUR
+ID  - 22296
+T1  - Point mutation in an AMPA receptor gene rescues lethality in mice deficient in the RNA-editing enzyme ADAR2.
+A1  - Higuchi, M
+A1  - Maas, S
+A1  - Single, F N
+A1  - Hartner, J
+A1  - Rozov, A
+A1  - Burnashev, N
+A1  - Feldmeyer, D
+A1  - Sprengel, R
+A1  - Seeburg, P H
+Y1  - 2000/00/06
+N2  - RNA editing by site-selective deamination of adenosine to inosine alters codons and splicing in nuclear transcripts, and therefore protein function. ADAR2 (refs 7, 8) is a candidate mammalian editing enzyme that is widely expressed in brain and other tissues, but its RNA substrates are unknown. Here we have studied ADAR2-mediated RNA editing by generating mice that are homozygous for a targeted functional null allele. Editing in ADAR2-/- mice was substantially reduced at most of 25 positions in diverse transcripts; the mutant mice became prone to seizures and died young. The impaired phenotype appeared to result entirely from a single underedited position, as it reverted to normal when both alleles for the underedited transcript were substituted with alleles encoding the edited version exonically. The critical position specifies an ion channel determinant, the Q/R site, in AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate) receptor GluR-B pre-messenger RNA. We conclude that this transcript is the physiologically most important substrate of ADAR2.
+T2  - Nature
+J2  - Nature
+PB  - Nature Publishing Group
+VL  - 406
+IS  - 6791
+SP  - 78
+EP  - 81
+AD  - Department of Molecular Neurobiology, Max-Planck Institute for Medical Research, Heidelberg, Germany.
+UR  - http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=10894545&retmode=ref&cmd=prlinks
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2000/Higuchi/Nature%202000%20Higuchi.pdf
+L3  - papers2://publication/doi/10.1038/35017558
+M3  - 10.1038/35017558
+ER  - 
+
+TY  - JOUR
+ID  - 22549
+T1  - AMPA receptor GluA2 subunit defects are a cause of neurodevelopmental disorders
+A1  - Salpietro, Vincenzo
+A1  - Dixon, Christine L
+A1  - Guo, Hui
+A1  - Bello, Oscar D
+A1  - Vandrovcova, Jana
+A1  - Efthymiou, Stephanie
+A1  - Maroofian, Reza
+A1  - Heimer, Gali
+A1  - Burglen, Lydie
+A1  - Valence, Stephanie
+A1  - Torti, Erin
+A1  - Hacke, Moritz
+A1  - Rankin, Julia
+A1  - Tariq, Huma
+A1  - Colin, Estelle
+A1  - Procaccio, Vincent
+A1  - Striano, Pasquale
+A1  - Mankad, Kshitij
+A1  - Lieb, Andreas
+A1  - Chen, Sharon
+A1  - Pisani, Laura
+A1  - Bettencourt, Conceicao
+A1  - Männikkö, Roope
+A1  - Manole, Andreea
+A1  - Brusco, Alfredo
+A1  - Grosso, Enrico
+A1  - Ferrero, Giovanni Battista
+A1  - Armstrong-Moron, Judith
+A1  - Gueden, Sophie
+A1  - Bar-Yosef, Omer
+A1  - Tzadok, Michal
+A1  - Monaghan, Kristin G
+A1  - Santiago-Sim, Teresa
+A1  - Person, Richard E
+A1  - Cho, Megan T
+A1  - Willaert, Rebecca
+A1  - Yoo, Yongjin
+A1  - Chae, Jong-Hee
+A1  - Quan, Yingting
+A1  - Wu, Huidan
+A1  - Wang, Tianyun
+A1  - Bernier, Raphael A
+A1  - Xia, Kun
+A1  - Blesson, Alyssa
+A1  - Jain, Mahim
+A1  - Motazacker, Mohammad M
+A1  - Jaeger, Bregje
+A1  - Schneider, Amy L
+A1  - Boysen, Katja
+A1  - Muir, Alison M
+A1  - Myers, Candace T
+A1  - Gavrilova, Ralitza H
+A1  - Gunderson, Lauren
+A1  - Schultz-Rogers, Laura
+A1  - Klee, Eric W
+A1  - Dyment, David
+A1  - Osmond, Matthew
+A1  - Parellada, Mara
+A1  - Llorente, Cloe
+A1  - Gonzalez-Peñas, Javier
+A1  - Carracedo, Angel
+A1  - Haeringen, Arie
+A1  - Ruivenkamp, Claudia
+A1  - Nava, Caroline
+A1  - Heron, Delphine
+A1  - Nardello, Rosaria
+A1  - Iacomino, Michele
+A1  - Minetti, Carlo
+A1  - Skabar, Aldo
+A1  - Fabretto, Antonella
+A1  - Hanna, Michael G
+A1  - Bugiardini, Enrico
+A1  - Hostettler, Isabel
+A1  - O’Callaghan, Benjamin
+A1  - Khan, Alaa
+A1  - Cortese, Andrea
+A1  - O’Connor, Emer
+A1  - Yau, Wai Y
+A1  - Bourinaris, Thomas
+A1  - Kaiyrzhanov, Rauan
+A1  - Chelban, Viorica
+A1  - Madej, Monika
+A1  - Diana, Maria C
+A1  - Vari, Maria S
+A1  - Pedemonte, Marina
+A1  - Bruno, Claudio
+A1  - Balagura, Ganna
+A1  - Scala, Marcello
+A1  - Fiorillo, Chiara
+A1  - Nobili, Lino
+A1  - Malintan, Nancy T
+A1  - Zanetti, Maria N
+A1  - Krishnakumar, Shyam S
+A1  - Lignani, Gabriele
+A1  - Jepson, James E C
+A1  - Broda, Paolo
+A1  - Baldassari, Simona
+A1  - Rossi, Pia
+A1  - Fruscione, Floriana
+A1  - Madia, Francesca
+A1  - Traverso, Monica
+A1  - De-Marco, Patrizia
+A1  - Pérez-Dueñas, Belen
+A1  - Munell, Francina
+A1  - Kriouile, Yamna
+A1  - El-Khorassani, Mohamed
+A1  - Karashova, Blagovesta
+A1  - Avdjieva, Daniela
+A1  - Kathom, Hadil
+A1  - Tincheva, Radka
+A1  - Van-Maldergem, Lionel
+A1  - Nachbauer, Wolfgang
+A1  - Boesch, Sylvia
+A1  - Gagliano, Antonella
+A1  - Amadori, Elisabetta
+A1  - Goraya, Jatinder S
+A1  - Sultan, Tipu
+A1  - Kirmani, Salman
+A1  - Ibrahim, Shahnaz
+A1  - Jan, Farida
+A1  - Mine, Jun
+A1  - Banu, Selina
+A1  - Veggiotti, Pierangelo
+A1  - Zuccotti, Gian V
+A1  - Ferrari, Michel D
+A1  - Van Den Maagdenberg, Arn M J
+A1  - Verrotti, Alberto
+A1  - Marseglia, Gian L
+A1  - Savasta, Salvatore
+A1  - Soler, Miguel A
+A1  - Scuderi, Carmela
+A1  - Borgione, Eugenia
+A1  - Chimenz, Roberto
+A1  - Gitto, Eloisa
+A1  - Dipasquale, Valeria
+A1  - Sallemi, Alessia
+A1  - Fusco, Monica
+A1  - Cuppari, Caterina
+A1  - Cutrupi, Maria C
+A1  - Ruggieri, Martino
+A1  - Cama, Armando
+A1  - Capra, Valeria
+A1  - Mencacci, Niccolò E
+A1  - Boles, Richard
+A1  - Gupta, Neerja
+A1  - Kabra, Madhulika
+A1  - Papacostas, Savvas
+A1  - Zamba-Papanicolaou, Eleni
+A1  - Dardiotis, Efthymios
+A1  - Maqbool, Shazia
+A1  - Rana, Nuzhat
+A1  - Atawneh, Osama
+A1  - Lim, Shen Y
+A1  - Shaikh, Farooq
+A1  - Koutsis, George
+A1  - Breza, Marianthi
+A1  - Coviello, Domenico A
+A1  - Dauvilliers, Yves A
+A1  - AlKhawaja, Issam
+A1  - AlKhawaja, Mariam
+A1  - Al-Mutairi, Fuad
+A1  - Stojkovic, Tanya
+A1  - Ferrucci, Veronica
+A1  - Zollo, Massimo
+A1  - Alkuraya, Fowzan S
+A1  - Kinali, Maria
+A1  - Sherifa, Hamed
+A1  - Benrhouma, Hanene
+A1  - Turki, Ilhem B Y
+A1  - Tazir, Meriem
+A1  - Obeid, Makram
+A1  - Bakhtadze, Sophia
+A1  - Saadi, Nebal W
+A1  - Zaki, Maha S
+A1  - Triki, Chahnez C
+A1  - Benfenati, Fabio
+A1  - Gustincich, Stefano
+A1  - Kara, Majdi
+A1  - Belcastro, Vincenzo
+A1  - Specchio, Nicola
+A1  - Capovilla, Giuseppe
+A1  - Karimiani, Ehsan G
+A1  - Salih, Ahmed M
+A1  - Okubadejo, Njideka U
+A1  - Ojo, Oluwadamilola O
+A1  - Oshinaike, Olajumoke O
+A1  - Oguntunde, Olapeju
+A1  - Wahab, Kolawole
+A1  - Bello, Abiodun H
+A1  - Abubakar, Sanni
+A1  - Obiabo, Yahaya
+A1  - Nwazor, Ernest
+A1  - Ekenze, Oluchi
+A1  - Williams, Uduak
+A1  - Iyagba, Alagoma
+A1  - Taiwo, Lolade
+A1  - Komolafe, Morenikeji
+A1  - Senkevich, Konstantin
+A1  - Shashkin, Chingiz
+A1  - Zharkynbekova, Nazira
+A1  - Koneyev, Kairgali
+A1  - Manizha, Ganieva
+A1  - Isrofilov, Maksud
+A1  - Guliyeva, Ulviyya
+A1  - Salayev, Kamran
+A1  - Khachatryan, Samson
+A1  - Rossi, Salvatore
+A1  - Silvestri, Gabriella
+A1  - Haridy, Nourelhoda
+A1  - Ramenghi, Luca A
+A1  - Xiromerisiou, Georgia
+A1  - David, Emanuele
+A1  - Aguennouz, Mhammed
+A1  - Fidani, Liana
+A1  - Spanaki, Cleanthe
+A1  - Tucci, Arianna
+A1  - Raspall-Chaure, Miquel
+A1  - Chez, Michael
+A1  - Tsai, Anne
+A1  - Fassi, Emily
+A1  - Shinawi, Marwan
+A1  - Constantino, John N
+A1  - De Zorzi, Rita
+A1  - Fortuna, Sara
+A1  - Kok, Fernando
+A1  - Keren, Boris
+A1  - Bonneau, Dominique
+A1  - Choi, Murim
+A1  - Benzeev, Bruria
+A1  - Zara, Federico
+A1  - Mefford, Heather C
+A1  - Scheffer, Ingrid E
+A1  - Clayton-Smith, Jill
+A1  - Macaya, Alfons
+A1  - Rothman, James E
+A1  - Eichler, Evan E
+A1  - Kullmann, Dimitri M
+A1  - Houlden, Henry
+Y1  - 2019/00/05
+N2  - Nature Communications, doi:10.1038/s41467-019-10910-w
+T2  - Nature Communications
+J2  - Nature Communications
+PB  - Nature Publishing Group
+SP  - 1
+EP  - 16
+PB  - Springer US
+UR  - http://dx.doi.org/10.1038/s41467-019-10910-w
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2019/Salpietro/Nature%20Communications%202019%20Salpietro.pdf
+L3  - papers2://publication/doi/10.1038/s41467-019-10910-w
+M3  - 10.1038/s41467-019-10910-w
+ER  - 
+
