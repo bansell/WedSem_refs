@@ -189,6 +189,72 @@ M3  - 10.1126/science.1118265
 ER  - 
 
 TY  - JOUR
+ID  - 22349
+T1  - Dynamic landscape and regulation of RNA editing in mammals
+A1  - Tan, Meng How
+A1  - Li, Qin
+A1  - Shanmugam, Raghuvaran
+A1  - Piskol, Robert
+A1  - Kohler, Jennefer
+A1  - Young, Amy N
+A1  - Liu, Kaiwen Ivy
+A1  - Zhang, Rui
+A1  - Ramaswami, Gokul
+A1  - Ariyoshi, Kentaro
+A1  - Gupte, Ankita
+A1  - Keegan, Liam P
+A1  - George, Cyril X
+A1  - Ramu, Avinash
+A1  - Huang, Ni
+A1  - Pollina, Elizabeth A
+A1  - Leeman, Dena S
+A1  - Rustighi, Alessandra
+A1  - Goh, Y P Sharon
+A1  - Chawla, Ajay
+A1  - Del Sal, Giannino
+A1  - Peltz, Gary
+A1  - Brunet, Anne
+A1  - Conrad, Donald F
+A1  - Samuel, Charles E
+A1  - O’Connell, Mary A
+A1  - Walkley, Carl R
+A1  - Nishikura, Kazuko
+A1  - Li, Jin Billy
+Y1  - 2017/00/12
+N2  - Nature 550, 249 (2017). doi:10.1038/nature24041
+T2  - Nature
+J2  - Nature
+PB  - Nature Publishing Group
+VL  - 550
+IS  - 7675
+SP  - 249
+EP  - 254
+PB  - Nature Publishing Group
+UR  - http://dx.doi.org/10.1038/nature24041
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2017/Tan/Nature%202017%20Tan.pdf
+L3  - papers2://publication/doi/10.1038/nature24041
+M3  - 10.1038/nature24041
+ER  - 
+
+TY  - JOUR
+ID  - 22683
+T1  - Ca2+-permeable AMPA receptors in synaptic plasticity and neuronal death
+A1  - Liu, Siqiong June
+A1  - Zukin, R Suzanne
+Y1  - 2007/00/01
+T2  - Trends in Neurosciences
+J2  - Trends in Neurosciences
+VL  - 30
+IS  - 3
+SP  - 126
+EP  - 134
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0166223607000203
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2007/Liu/Trends%20in%20Neurosciences%202007%20Liu.pdf
+L3  - papers2://publication/doi/10.1016/j.tins.2007.01.006
+M3  - 10.1016/j.tins.2007.01.006
+ER  - 
+
+TY  - JOUR
 ID  - 22274
 T1  - Genome-wide analysis of differential RNA editing in epilepsy
 A1  - Srivastava, Prashant Kumar
@@ -609,6 +675,54 @@ UR  - http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=1
 L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2000/Higuchi/Nature%202000%20Higuchi.pdf
 L3  - papers2://publication/doi/10.1038/35017558
 M3  - 10.1038/35017558
+ER  - 
+
+TY  - JOUR
+ID  - 22745
+T1  - Prader-Willi syndrome
+A1  - Cassidy, Suzanne B
+A1  - Schwartz, Stuart
+A1  - Miller, Jennifer L
+A1  - Driscoll, Daniel J
+Y1  - 2011/00/26
+T2  - Genetics in Medicine
+J2  - Genet Med
+VL  - 14
+IS  - 1
+SP  - 10
+EP  - 26
+UR  - http://www.nature.com/articles/gim0b013e31822bead0
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2011/Cassidy/Genet%20Med%202011%20Cassidy.pdf
+L3  - papers2://publication/doi/10.1007/BF01233363
+M3  - 10.1007/BF01233363
+ER  - 
+
+TY  - JOUR
+ID  - 22749
+T1  - Region-specific alterations of A-to-I RNA editing of serotonin 2c receptor in the cortex of suicides with major depression
+A1  - Weissmann, D
+A1  - van der Laan, S
+A1  - Underwood, M D
+A1  - Salvetat, N
+A1  - Cavarec, L
+A1  - Vincent, L
+A1  - Molina, F
+A1  - Mann, J J
+A1  - Arango, V
+A1  - Pujol, J F
+Y1  - 2016/00/24
+N2  - Translational Psychiatry 6, e878 (2016). doi:10.1038/tp.2016.121
+VL  - 6
+IS  - 8
+SP  - e878
+EP  - 9
+PB  - Nature Publishing Group
+SN  - 2158-3188
+UR  - 
+                http://dx.doi.org/10.1038/tp.2016.121
+L1  - file://localhost/Users/ansell.b/Dropbox/Papers2/Articles/2016/Weissmann/2016%20Weissmann.pdf
+L3  - papers2://publication/doi/10.1038/tp.2016.121
+M3  - 10.1038/tp.2016.121
 ER  - 
 
 TY  - JOUR
